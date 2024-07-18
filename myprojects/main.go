@@ -6,7 +6,8 @@ import (
 	
 	// "myprojects/simplecalculator"
 	// "myprojects/wordcounter"
-	"myprojects/todolistapp"
+	// "myprojects/todolistapp"
+	"myprojects/jsonparser"
 
 )
 
@@ -14,5 +15,5 @@ func main() {
     // helloworld.HelloWorld()
     // simplecalculator.SimpleCalculator()
 	// wordcounter.WordCounter()
-	todolistapp.Todolistapp()
+	jsonparser.Jsonparser()
 }

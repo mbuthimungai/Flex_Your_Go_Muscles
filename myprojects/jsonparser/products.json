@@ -1,0 +1,50 @@
+{
+    "products": [
+      {
+        "id": 101,
+        "name": "Wireless Mouse",
+        "productValue": 25.99,
+        "productOriginalValue": 29.99,
+        "productDiscount": "13%",
+        "productLink": "https://example.com/products/wireless-mouse",
+        "productImageLink": "https://example.com/images/wireless-mouse.jpg"
+      },
+      {
+        "id": 102,
+        "name": "Bluetooth Speaker",
+        "productValue": 45.99,
+        "productOriginalValue": 59.99,
+        "productDiscount": "23%",
+        "productLink": "https://example.com/products/bluetooth-speaker",
+        "productImageLink": "https://example.com/images/bluetooth-speaker.jpg"
+      },
+      {
+        "id": 103,
+        "name": "Smart Watch",
+        "productValue": 199.99,
+        "productOriginalValue": 249.99,
+        "productDiscount": "20%",
+        "productLink": "https://example.com/products/smart-watch",
+        "productImageLink": "https://example.com/images/smart-watch.jpg"
+      },
+      {
+        "id": 104,
+        "name": "Laptop Stand",
+        "productValue": 35.99,
+        "productOriginalValue": 39.99,
+        "productDiscount": "10%",
+        "productLink": "https://example.com/products/laptop-stand",
+        "productImageLink": "https://example.com/images/laptop-stand.jpg"
+      },
+      {
+        "id": 105,
+        "name": "Noise Cancelling Headphones",
+        "productValue": 99.99,
+        "productOriginalValue": 149.99,
+        "productDiscount": "33%",
+        "productLink": "https://example.com/products/noise-cancelling-headphones",
+        "productImageLink": "https://example.com/images/noise-cancelling-headphones.jpg"
+      }
+    ]
+  }
+  
